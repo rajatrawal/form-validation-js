@@ -11,6 +11,9 @@
 
 Welcome to the "Form Validation Project"! This web application allows you to validate form input using regular expressions (regex) with HTML, CSS, JavaScript, and Bootstrap. Ensure the data entered into your forms is accurate and correctly formatted.
 
+## Preview of Project
+![Capture](https://github.com/rajatrawal/form-validation-js/assets/72153827/6a64c851-369a-4c30-9f3c-f5bd9c9be8b8)
+
 ## About This Project
 
 The "Form Validation Project" is designed to simplify the process of validating user inputs in forms. It uses regular expressions to check the correctness and formatting of data, such as emails, phone numbers, and more.
